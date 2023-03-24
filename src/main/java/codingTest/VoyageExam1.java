@@ -1,7 +1,5 @@
 package codingTest;
 
-import java.util.Arrays;
-
 public class VoyageExam1 {
     //윷놀이 - 4개의 윷짝을 던짐
     //배 : 0 / 등 : 1
