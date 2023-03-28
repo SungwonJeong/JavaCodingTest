@@ -1,4 +1,4 @@
-package codingTest;
+package programmersLevel1;
 
 import java.util.HashSet;
 
@@ -6,7 +6,6 @@ public class Pokemon {
     public static void main(String[] args) {
         PokemonSolution ps = new PokemonSolution();
         int[] test = {2,3,4,5,6,2,3,9,2,3};
-
         System.out.println("result = " + ps.solution(test));
     }
 }
