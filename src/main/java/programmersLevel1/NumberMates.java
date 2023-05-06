@@ -9,7 +9,7 @@ public class NumberMates {
     }
 }
 
-/* 두 정수 X, Y의 임의의 자리에서 공통으로 나타나는 정수 k들을 이용해 만들 수 있는 가장 큰 정수를 return
+/* 두 정수 X, Y의 임의의 자리에서 공통으로 나타나는 정수 k들을 이용해 만들 수 있는 가장 큰 정수를 return-
  * 짝꿍이 존재하지 않으면 -1 return, 짝꿍이 0으로만 구성되어 있으면 0 return
  * */
 class NumberMatesSolution {
